@@ -1,4 +1,4 @@
-# cpsc304project
+# ZootopiaApp
 
 Zootopia is a zoo database management system.  The project is composed of a sample database and a graphic user interface that allows the zoo manager and the employees to carry out maintenance and management of the zoo database.
 
